@@ -1,4 +1,5 @@
-# A small linux rootkit works on kernel 4.0.X #
+# Liinux #
+A small linux rootkit works on kernel 4.0.X.
 
 ## About ##
 ### liinux_vfs.c ###
